@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+  <name>Small Hi-Tech Research Bench (NoPatch)</name>
+  <author>TM3</author>
+  <packageId>TM3.SmallHiTechResearchBench</packageId>
+  <description>A repack of the mod with the same name by Xercaine that resizes hi-tech research benches to be smaller. This mod doesn't patch the vanilla research bench, it just adds a small bench with a research speed penalty.</description>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  
+</ModMetaData>
